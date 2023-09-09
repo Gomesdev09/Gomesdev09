@@ -28,8 +28,6 @@
   
 ![snake gif](https://github.com/Gomesdev09/Gomesdev09/blob/output/github-contribution-grid-snake.gif)
 
-)
-
 
 
 
