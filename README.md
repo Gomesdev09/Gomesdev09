@@ -1,4 +1,4 @@
-<h1 align="center">Olá mundo!✨ João Vitor🐸</h1>
+<h1 align="center">Olá mundo! Eu sou o João🐸✨</h1>
 <h3 align="center">Eu estudo no instituto PROA💙</h3>
 
 <p>  <img align="right"  src="https://github-readme-stats.vercel.app/api?username=gomesdev09&show_icons=true&theme=tokyonight"
