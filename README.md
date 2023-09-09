@@ -1,9 +1,12 @@
 <h1 align="center">Olá mundo!✨ João Vitor🐸</h1>
 <h3 align="center">Eu estudo no instituto PROA💙</h3>
 
-- 🌱 Estou aprendendo sobre **JavaScript, HTML, CSS, MySQL, APIs, IAs.**
+<p>  <img align="right"  src="https://github-readme-stats.vercel.app/api?username=gomesdev09&show_icons=true&theme=tokyonight"
+    media="(prefers-color-scheme: tokyonight)"/> </p>
 
-- 📫 Me mande um email **gomes.almeidareserv@gmail.com**
+🌱 Estou aprendendo sobre: **JavaScript, HTML, CSS, MySQL, APIs, IAs.**
+
+📫 Me mande um email: **gomes.almeidareserv@gmail.com**
 
 <h3 align="left ">Conecte-se comigo:</h3>
 <p alinhar="esquerda">
@@ -25,8 +28,7 @@
   
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gomesdev09&show_icons=true&locale=en&layout=compact" alt="gomesdev09" /> </p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=gomesdev09&show_icons=true&locale=en" alt="gomesdev09" /> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gomesdev09&" alt="gomesdev09" /></p>
+
+
