@@ -26,7 +26,7 @@
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/></a> 
   <a href=" https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> </a>
   
-![snake gif](https://https://github.com/Gomesdev09/Gomesdev09/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://https://github.com/Gomesdev09/Gomesdev09/blob/output/github-contribution-grid-snake.gif)
 
 
 
