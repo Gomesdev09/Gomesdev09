@@ -1,4 +1,4 @@
-![image](https://github.com/Gomesdev09/Gomesdev09/assets/142240131/7c331c1e-b1dd-4d27-8868-6b5fb25dd339)<h1 align="center">Olá mundo! Eu sou o João🐸✨</h1>
+<h1 align="center">Olá mundo! Eu sou o João🐸✨</h1>
 <h3 align="center">Eu estudo no instituto PROA💙</h3>
 
 <p>  <img align="right"  src="https://github-readme-stats.vercel.app/api?username=gomesdev09&show_icons=true&theme=tokyonight"
