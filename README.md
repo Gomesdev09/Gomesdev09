@@ -11,7 +11,7 @@
 
 <h3 align="left ">Conecte-se comigo:</h3>
 <p alinhar="esquerda">
-<a href="https://linkedin.com/in/gomesdev09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme -generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gomesdev09" height="30" width="40" /></a> <a href="https:
+<a href="https://linkedin.com/in/gomesdev09" target="blank"><img align="center" src="https://icons8.com/icon/13930/linkedin" alt="gomesdev09" height="30" width="40" /></a> <a href="https:
 / /instagram.com/@jaoklk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/ ícones/Social/instagram.svg" alt="@jaoklk" height="30" width="40" /></a> </p>
 <
 
